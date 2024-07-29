@@ -27090,9 +27090,9 @@ var _stylesCss = require("./styles.css");
     name: "Zameer Khan",
     title: "A Learner",
     email: "tozameerkhan@gmail.com",
-    gitHub: "https://github.com/tozameerkhan",
-    instagram: "https://www.instagram.com/tozameerkhan?igsh=emJwOWhka2hucGY2&utm_source=qr",
-    linkedIn: "https://www.instagram.com/tozameerkhan?igsh=emJwOWhka2hucGY2&utm_source=qr"
+    gitHub: "tozameerkhan",
+    instagram: "tozameerkhan?igsh=emJwOWhka2hucGY2&utm_source=qr",
+    linkedIn: "zameer-khan-2696467a"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
